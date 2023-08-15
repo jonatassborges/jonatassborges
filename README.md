@@ -1,4 +1,4 @@
-## Hi, I´m Jonatas!
+## Hi, I'm Jonatas!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatassborges&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatassborges&layout=compact&theme=dracula&card_width=320&card_height=320)
