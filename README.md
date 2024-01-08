@@ -1,11 +1,11 @@
-## Hi, I'm Jonatas!
-  I'm a web developer, The Techs I Know are:
-FrontEnd:
-  React: I use vite + TS and I'm learning Next.js
-  Stiles: CSS3, Tailwind and Bootstrap
-Backend: 
-  Node.js, TS and I'm learning Nest.js
-  DB: Use SQL's but no problem with NoSQL's
+## Hi, I'm Jonatas! <br>
+  I'm a web developer, The Techs I Know are: <br>
+FrontEnd: <br>
+  React: I use vite + TS and I'm learning Next.js <br>
+  Stiles: CSS3, Tailwind and Bootstrap <br>
+Backend: <br>
+  Node.js, TS and I'm learning Nest.js <br>
+  DB: Use SQL's but no problem with NoSQL's <br>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatassborges&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatassborges&layout=compact&theme=dracula&card_width=320&card_height=320)
@@ -16,7 +16,7 @@ Backend:
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/nodejs-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
