@@ -6,6 +6,8 @@ FrontEnd: <br>
 Backend: <br>
   Node.js, TS and I'm learning Nest.js <br>
   DB: Use SQL's but no problem with NoSQL's <br>
+
+  I'm 18 by the way!
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatassborges&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatassborges&layout=compact&theme=dracula&card_width=320&card_height=320)
